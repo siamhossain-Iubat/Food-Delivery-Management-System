@@ -1,25 +1,3 @@
-/*$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-$																													$
-$																													$
-$																													$
-$					Project Title :Design and Iplementation of a Food Delivary Managment System Using SQL			$
-$											Trainee Name : Abdul Mazed												$
-$											  Treinee ID : 1291163													$
-$												Batch ID : CS/PNTL-A/67/01											$
-$																													$
-$																													$
-$							                	***Instructed By MD AZMAN ALI***									$
-$								  Faculty of Cross Platform Apps using ASP.NET, Angular & React						$
-$														  PeopleNTech												$
-$																													$
-$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$*/
-
-/*
- Table of Contents for DDL :
-							PART 01--LINE NO 28 TO 59
-							PART 02--LINE NO 68 TO 468
-							PART 03--LINE NO 477 TO 564
-							PART 04--LINE NO 572 TO 612
 
 */
 USE master
